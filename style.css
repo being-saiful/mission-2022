@@ -1,0 +1,23 @@
+body{
+    font-family: 'Luxurious Roman', cursive;
+    margin: 0px;
+}
+.mission-2022{
+    color: orange;
+}
+.stay-focus-line{
+    border-left: 4px solid;
+    border-color: orangered;
+    padding-left: 5px;
+    margin-left: 5%;
+}
+h1{
+    font-size: 45px;
+}
+.focus-section{
+    display: flex;
+    margin-left: 5%;
+}
+.focus-section img{
+    width: 50%;
+}
