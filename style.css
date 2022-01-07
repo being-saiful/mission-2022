@@ -48,10 +48,21 @@ p{
 .middle-section-boxes{
     height: 30%;
     width: 90%;
-    background-color: cadetblue;
     color: black;
     padding: 10px;
     margin-left: 3%;
     margin-right: 5%;
     border-radius: 10px;
+}
+.middle-section-boxes img{
+    width: 40%;
+}
+#mission-box{
+    background-color: darkseagreen;
+}
+#vission-box{
+    background-color: lightpink;
+}
+#goals-box{
+    background-color: lightsalmon;
 }
