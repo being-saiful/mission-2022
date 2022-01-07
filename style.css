@@ -1,6 +1,7 @@
 body{
     font-family: 'Luxurious Roman', cursive;
-    margin: 30px;
+    margin: 0px;
+    margin-bottom: 0px;
 }
 .mission-2022{
     color: orange;
@@ -108,5 +109,7 @@ h3{
     border-image-slice: 1;
 }
 footer{
-    background-color: violet;
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
 }
