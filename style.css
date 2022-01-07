@@ -59,6 +59,12 @@ p{
 #mission-box{
     background-color: darkseagreen;
 }
+#vission-box{
+    background-color: yellowgreen;
+}
+#goals-box{
+    background-color: darkslateblue;
+}
 .hashte-hobe-section{
     display: flex;
 }
@@ -75,8 +81,32 @@ h2{
     display: flex;
 }
 .my-design{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border-radius: 5px;
-    box-shadow: 1px 2px 3px gray;
+    box-shadow: 1px 2px 3px black;
+    margin-right: 5%;
+    margin-left: 3%;
+    padding-left: 2%;
+    font-size: 20px;
+ 
+}
+#jhankar-vai img{
+    width: 65%;
+}
+h3{
+    font-size: 25px;
+}
+#first-box{
+    border-left: 7px solid;
+    border-image: linear-gradient(yellow, green);
+    border-image-slice: 1;
+}
+#second-box{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, red);
+    border-image-slice: 1;
+}
+footer{
+    background-color: violet;
 }
